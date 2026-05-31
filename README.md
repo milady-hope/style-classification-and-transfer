@@ -5,7 +5,7 @@
 ```
 make all
 
-```
+```bash
 make corpus      # анализ корпуса
 make classify       # все 4 классификатора: RuBERT, CNN, SVM, Baseline
 make transfer    # ruT5-base, все 4 конфигурации (требует RuBERT)
